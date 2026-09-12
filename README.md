@@ -317,5 +317,3 @@ This project demonstrates:
 
 Digital Verification Course — Project 3
 
-Project: Digital Verification – Project 3  
-Topic: APB Peripheral Verification Using UVM RAL
